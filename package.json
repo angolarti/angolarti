@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/angolarti/angolarti/issues"
   },
-  "homepage": "https://github.com/angolarti/angolarti#readme"
+  "homepage": "https://github.com/angolarti/angolarti#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
