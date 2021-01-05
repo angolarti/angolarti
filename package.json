@@ -1,0 +1,22 @@
+{
+  "name": "angolarti",
+  "version": "1.0.0",
+  "description": "Conjunto de ferramentas para atender problemas pontuais com javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angolarti/angolarti.git"
+  },
+  "keywords": [
+    "angolarti"
+  ],
+  "author": "Walter Angolar <angolarti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angolarti/angolarti/issues"
+  },
+  "homepage": "https://github.com/angolarti/angolarti#readme"
+}
